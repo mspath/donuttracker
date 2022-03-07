@@ -1,5 +1,4 @@
-Donut Tracker
-=============
+# Donut Tracker
 
 Simple app which lets you track your favorite Donuts.
 
@@ -33,15 +32,13 @@ This sample showcases the following features of the Navigation component:
 
 Environment
 
-- Kotlin 1.5.21
-- Android Studio Arctic Fox 2020.3.1
-- Gradle Plugin 7.0.0
-
-Note: to make Room compile on M1 macs you need to add `kapt "org.xerial:sqlite-jdbc:3.36.0"` before kapt for room.
+- Kotlin 1.6.10
+- Android Studio Bumblebee 2021.1.1
+- Gradle Plugin 7.1.2
 
 ----
 
-updated: 2021-08-17
+updated: 2022-03-07
 
 ----
 
