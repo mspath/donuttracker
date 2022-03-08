@@ -42,8 +42,7 @@ updated: 2022-03-07
 
 ----
 
-License
--------
+### License
 
 Copyright 2020 The Android Open Source Project, Inc.
 
