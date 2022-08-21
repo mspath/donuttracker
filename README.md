@@ -4,18 +4,24 @@ Simple app which lets you track your favorite Donuts.
 
 This is a trimmed down and modified version of the [MAD Skills Navigation Sample](https://github.com/android/architecture-components-samples/tree/master/MADSkillsNavigationSample)
 
-This sample shows the features of Navigation component highlighted by the Navigation
+It shows the features of Navigation component highlighted by the Navigation
 episodes in the MAD Skills series of [videos](https://www.youtube.com/user/androiddevelopers) 
 and [articles](https://medium.com/androiddevelopers). Specifically, episodes
-2, 3, andd 4 walk through code from this sample.
+2, 3, and 4 walk through code from this sample.
 
 ### Features
 
-This sample showcases the following features of the Navigation component:
+It showcases the following features of the Navigation component:
 
  * Dialog destinations (episode 2)
  * Using SafeArgs to pass data between destinations (episode 3)
  * Navigating via shortcuts and notifications with Deep Links (episode 4)
+
+It also provides a simple example of
+
+ * Room
+ * ViewModel
+ * Notifications
 
 ### Screenshots
 <img src="results/screenshot_1.png" height="400" alt="Screenshot"/> <img src="results/screenshot_2.png" height="400" alt="Screenshot"/> 
@@ -32,13 +38,13 @@ This sample showcases the following features of the Navigation component:
 
 Environment
 
-- Kotlin 1.6.10
-- Android Studio Bumblebee 2021.1.1
-- Gradle Plugin 7.1.2
+- Kotlin 1.7.10
+- Android Studio Chipmunk 2021.2.1
+- Gradle Plugin 7.2.2
 
 ----
 
-updated: 2022-03-07
+updated: 2022-08-21
 
 ----
 
