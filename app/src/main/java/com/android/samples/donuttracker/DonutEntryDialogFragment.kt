@@ -33,10 +33,8 @@ import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 class DonutEntryDialogFragment : BottomSheetDialogFragment() {
     // HOWTO use a BottomSheetDialog
 
-    // modification from original version
     private val donutEntryViewModel: DonutViewModel by activityViewModels()
 
-    // FIXME maybe refactor this to a sealed class
     private enum class EditingState {
         NEW_DONUT,
         EXISTING_DONUT
