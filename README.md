@@ -34,17 +34,22 @@ It also provides a simple example of
   for more concise uses of the Navigation component. For example, calls to `Navigation.findNavController(view)` can
  be expressed as `view.findNavController()`.
 
-----
+---
 
 Environment
 
-- Kotlin 1.7.10
+- Kotlin 1.7.20
 - Android Studio Dolphin 2021.3.1
-- Gradle Plugin 7.3.0
+- Gradle Plugin 7.3.1
 
 ----
 
-updated: 2022-08-21
+```
+language: kotlin
+repo: donuttracker
+status: archived
+updated: 2022-12-03
+```
 
 ----
 
